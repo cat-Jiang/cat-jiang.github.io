@@ -12,7 +12,7 @@ github_repo: "https://github.com/Alexander-Huang/Alexander-Huang.github.io.git" 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "很抱歉，这里的前方是一方通行，你就乖乖的夹着尾巴耸拉着脑袋返回原点吧！"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/pg.accelerator.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
