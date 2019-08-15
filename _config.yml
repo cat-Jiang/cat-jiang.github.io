@@ -99,18 +99,18 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "某位arch大佬",
+        title: "チェン(arch大佬)",
         href: "http://blog.origincode.me"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
+        title: "Eros_0125",
+        href: "http://orz.dog"
+    }#,{
         title: "Apple",
         href: "https://apple.com"
-    },{
+    }#,{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
-    }
+    #}
 ]
 
 theme: jekyll-theme-architect
