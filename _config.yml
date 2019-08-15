@@ -104,13 +104,13 @@ friends: [
     },{
         title: "Eros_0125",
         href: "http://orz.dog"
-    }#,{
-        title: "Apple",
-        href: "https://apple.com"
-    }#,{
+    },{
+        title: "酷安",
+        href: "https://www.coolapk.com"
+    },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
-    #}
+    }
 ]
 
 theme: jekyll-theme-architect
