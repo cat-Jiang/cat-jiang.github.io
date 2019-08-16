@@ -4,7 +4,7 @@ title:      记一次manjaro变arch的奇妙经历
 subtitle:   或将成为安装archlinux最简单的方法?
 date:       2019-08-16 				# 时间
 author:     Alex 						# 作者
-header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+header-img: img/ai-sunset.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - Linux
