@@ -46,11 +46,11 @@ $sudo vim /etc/pacman.conf
 　　以下指令中，凡是提示不能满足依赖关系又不重要的，都暂时删了。如果被错误提示中止，先别忙着继续，Google一下为什么。
 ```
 $sudo pacman -S pacman #不知道是否需要？
-$sudo pacman -R manjaro-keying
-$sudo pacman -S archlinux-keying archlinuxcn-keying
-$sudo pacman-key –init
-$sudo pacman-key –populate archlinux manjaro
-$sudo pacman-key –refresh-keys
+$sudo pacman -R manjaro-keyring
+$sudo pacman -S archlinux-keyring archlinuxcn-keyring
+$sudo pacman-key --init
+$sudo pacman-key --populate archlinux manjaro
+$sudo pacman-key --refresh-keys
 $sudo pacman -S $(pacman -Qenq) #此命令由チェン提供
 $sudo pacman -S linux linux-headers --force #把内核换成arch提供
 ```
