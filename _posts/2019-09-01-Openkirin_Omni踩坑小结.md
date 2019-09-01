@@ -8,7 +8,7 @@ header-img: img/ai-star-track.jpg
 catalog: true 						# 是否归档
 tags:								#标签
     - Android
-    - note
+    - Notes
 ---
 
 
