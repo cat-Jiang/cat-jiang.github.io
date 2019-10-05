@@ -1,17 +1,17 @@
 # Site settings
-title: Alex Blog
-SEOTitle: 我的博客 | Alex Blog
+title: Rachel Blog
+SEOTitle: 我的博客 | cat Jiang Blog
 header-img: img/post-bg-newdesk-min.jpg
 email: 2380087797@qq.com
-description: "."
-keyword: "Alex, Alex Blog, Linux, Arch, 酷安, 软件, android"
-url: "https://alexander-huang.github.io"          # your host, for absolute URL
+description: "Give me some lollypop(゜o゜)"
+keyword: "Cat, Jiang, literature, Dancing"
+url: "https://cat-jiang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Alexander-Huang/Alexander-Huang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "很抱歉，这里的前方是一方通行，你就乖乖的夹着尾巴耸拉着脑袋返回原点吧！"
+sidebar-about-description: "嘤嘤嘤"
 sidebar-avatar: /img/pg-accelerator-2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -21,9 +21,9 @@ RSS: false
 # weibo_username:     none
 zhihu_username:     alex1219-35
 github_username:    Alexander-Huang
-#facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#facebook_username:  none 
+#jianshu_username:   none
+#twitter_username:   none
 
 
 
@@ -57,11 +57,11 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: none
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论true/false
   clientID: dfc79a73954da66d3787                            #生成的clientID
   clientSecret: 4ef0bb0960e2548ecc856f47fb3fb12eaf967cfa    #生成的clientSecret
   repo: Alexander-Huang.github.io    #仓库名称
@@ -99,38 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "我的酷安",
-        href: "http://www.coolapk.com/u/1340820"
-    },{
-        title: "Eros_0125",
-        href: "http://orz.dog"
-    },{
-        title: "チェン(arch大佬)",
-        href: "http://blog.origincode.me"
-    },{
-        title: "OnlyLoveFree(termux大佬)",
-        href: "https://nidhoggfgg.github.io"
-    },{
-        title: "kiriki(ROM大佬)",
-        href: "https://blog.kiriki.top"
-    },{
-        title: "pgs666",
-        href: "http://pgs666.kdcloud.xyz"
-    },{
-        title: "stageguard(反正是大佬就对了)",
-        href: "https://stageguard.github.io/"
-    },{
-        title: "pokon548.5(编程大佬？)",
-        href: "https://pokon548.ink/"
-    },{
-        title: "fear0818(酷安id过于高大上)",
-        href: "https://fear0818.github.io/"
-    },{
-        title: "生来彷徨的人（Linux铺路组重要成员）",
-        href: "https://codesjobs.github.io/"
-    },{
-        title: "John’s blog",
-        href: "https://celianlh.github.io"
+        title: "哥哥嗒",
+        href: "https://alexander-huang.github.io"
     }
 ]
 
